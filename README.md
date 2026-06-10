@@ -2,7 +2,7 @@
 
 A fully browser-based statistical analysis toolkit. No installation, no backend, no data ever leaves your computer. Open the HTML file and start analysing.
 
-**→ [Live Demo](https://your-github-username.github.io/tredri-toolkit/)** *(replace with your GitHub Pages URL after publishing)*
+**→ [Live Demo]([https://your-github-username.github.io/tredri-toolkit/](https://github.com/Syed-Faizani/Tredri-Toolkit))** 
 
 ---
 
@@ -161,5 +161,6 @@ Kaggle — [Students Performance in Exams](https://www.kaggle.com/datasets/spsci
 ---
 
 ## License
-
-MIT — free to use, modify, and distribute.
+© 2025 Syed Marghoobul Hasan Faizani  
+SRH University Leipzig — M.Sc. Big Data and Artificial Intelligence  
+All rights reserved. Built as part of coursework for Tools and Methods of Data Analysis.
