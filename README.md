@@ -2,7 +2,7 @@
 
 A fully browser-based statistical analysis toolkit. No installation, no backend, no data ever leaves your computer. Open the HTML file and start analysing.
 
-**→ [Live Demo](https://github.com/Syed-Faizani/Tredri-Toolkit)** 
+**→ [Live Demo](https://github.com/Syed-Faizani/Tredri-Toolkit/blob/main/Toolkit.html)** 
 
 ---
 
