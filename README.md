@@ -1,4 +1,4 @@
-# Tredri Toolkit
+# 1Toolkit
 
 A fully browser-based statistical analysis toolkit. No installation, no backend, no data ever leaves your computer. Open the HTML file and start analysing.
 
